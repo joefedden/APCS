@@ -1,0 +1,7 @@
+Enter a word: 
+HelloWorld
+Uppercase: H W 
+Second letter: e
+Position of vowels: 1 4 6 
+Number of vowels: 3
+Vowels replaced with underscores H_ll_W_rld

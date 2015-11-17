@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=capacity
+comment0.target=Battery(double)
+comment1.params=
+comment1.target=void\ charge()
+comment2.params=amount
+comment2.target=void\ drain(double)
+comment3.params=
+comment3.target=double\ getRemainingCapacity()
+numComments=4

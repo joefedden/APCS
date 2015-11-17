@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=Romannum(int)
+comment1.params=
+comment1.target=int\ setFirstDigit()
+comment2.params=
+comment2.target=int\ setSecondDigit()
+comment3.params=
+comment3.target=int\ setThirdDigit()
+comment4.params=
+comment4.target=int\ setFourthDigit()
+comment5.params=digit
+comment5.target=void\ romanNumConverter(int)
+comment6.params=
+comment6.target=double\ returnInput()
+numComments=7

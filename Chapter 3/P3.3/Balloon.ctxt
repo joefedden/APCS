@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=Balloon(double)
+comment1.params=amount
+comment1.target=void\ inflate(double)
+comment2.params=
+comment2.target=double\ getVolume()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DataSet()
+comment1.params=value
+comment1.target=void\ add(double)
+comment2.params=count
+comment2.target=void\ getAverage(int)
+comment3.params=
+comment3.target=double\ printAverage()
+numComments=4

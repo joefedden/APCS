@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=c\ mpy\ gp\ m\ r
+comment0.target=Car(double,\ double,\ double,\ double,\ double)
+comment1.params=
+comment1.target=double\ costAfter5Years()
+numComments=2

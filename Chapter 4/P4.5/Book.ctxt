@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=bookPrice
+comment0.target=Book(double)
+comment1.params=
+comment1.target=void\ setTax()
+comment2.params=
+comment2.target=void\ addTax()
+comment3.params=
+comment3.target=void\ setShipping()
+comment4.params=
+comment4.target=java.lang.String\ recipt()
+numComments=5
