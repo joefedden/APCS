@@ -1,0 +1,2 @@
+Enter nth digit of the Fibonacci sequence: 15
+The 15th digit of fib is 610

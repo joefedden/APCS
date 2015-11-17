@@ -1,0 +1,3 @@
+Enter a velocity: 100
+Accurate Position: 95.04594999999989
+Standard Equation Position: 94.76060420723799

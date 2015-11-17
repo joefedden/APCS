@@ -1,0 +1,9 @@
+Enter nums to find average and standard deviation (0 to quit): 
+10
+Enter nums to find average and standard deviation (0 to quit): 
+15
+Enter nums to find average and standard deviation (0 to quit): 
+10
+Enter nums to find average and standard deviation (0 to quit): 
+0
+Average: 11.666666666666666
