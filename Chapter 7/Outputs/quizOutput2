@@ -1,0 +1,6 @@
+Array: 46 37 22 23 25 46 34 12 23 43 
+ArrayList: [43, 23, 12, 34, 46, 25, 23, 22, 37, 46]
+Average: 31.1
+Max: 46
+Min: 12
+Count of nums less than 25: 4
