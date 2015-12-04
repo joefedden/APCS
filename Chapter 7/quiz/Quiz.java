@@ -19,15 +19,17 @@ public class Quiz {
         
         int total = 0, max = 0, min = arrList.get(0), lessThanCount = 0;
         float average;
+        ArrayList<Integer> littleNums = new <Integer>ArrayList();
         for (int elements : arrList) {
             total += elements;
             
-            if (elements < 25)
+            if (elements < 25) {
                 lessThanCount++;
-            
+                littleNums.add(elements);
+            }
             if (elements > max) 
                 max = elements;
-            
+                
             if (elements < min)
                 min = elements;
         }
@@ -43,7 +45,8 @@ public class Quiz {
             "\nAverage: " + average + 
             "\nMax: " + max + 
             "\nMin: " + min +
-            "\nCount of nums less than 25: " + lessThanCount
+            "\nCount of nums less than 25: " + lessThanCount + 
+            "\nNums less than 25: " + littleNums
         );
     }
 }
