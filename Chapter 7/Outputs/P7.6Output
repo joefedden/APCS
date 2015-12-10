@@ -1,0 +1,47 @@
+###
+
+Player O coor1(x): 1
+
+Player O coor2(y): 1
+X##
+#O#
+###
+Player X corr1(x): 0
+
+Player X coor2(y): 1
+XX#
+#O#
+###
+
+Player O coor1(x): 1
+
+Player O coor2(y): 0
+XX#
+OO#
+###
+Player X corr1(x): 2
+
+Player X coor2(y): 0
+XX#
+OO#
+X##
+
+Player O coor1(x): 2
+
+Player O coor2(y): 1
+XX#
+OO#
+XO#
+Player X corr1(x): 2
+
+Player X coor2(y): 2
+XX#
+OO#
+XOX
+
+Player O coor1(x): 1
+
+Player O coor2(y): 2
+XX#
+OOO
+XOX

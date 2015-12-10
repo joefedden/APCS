@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=myList
+comment0.target=WordList(java.util.ArrayList)
+comment1.params=len
+comment1.target=int\ numWordsOfLength(int)
+comment2.params=len
+comment2.target=void\ removeWordsOfLength(int)
+comment3.params=
+comment3.target=void\ printList()
+comment4.params=
+comment4.target=void\ minAndMax()
+numComments=5

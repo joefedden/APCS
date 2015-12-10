@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=capacity
+comment0.target=Student(int)
+comment1.params=score
+comment1.target=boolean\ addScore(double)
+comment2.params=
+comment2.target=double\ sum()
+comment3.params=
+comment3.target=double\ minimum()
+comment4.params=
+comment4.target=double\ finalScore()
+comment5.params=
+comment5.target=void\ removeMin()
+comment6.params=
+comment6.target=void\ printScores()
+numComments=7
